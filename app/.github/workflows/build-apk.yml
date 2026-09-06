@@ -132,10 +132,9 @@ jobs:
           
           NOTES="This is an automatically generated debug APK.
           The APK was built by GitHub Actions.
-          Run number: ${{ github.run_number }}
-          Run attempt: ${{ github.run_attempt }}
-          Source commit SHA: ${{ github.sha }}
-          
+          The GitHub Actions run number: ${{ github.run_number }}
+          The GitHub Actions run attempt: ${{ github.run_attempt }}
+          The source commit SHA: ${{ github.sha }}
           The APK is intended for testing.
           The APK is not a Play Store production release.
           The APK is signed only with a temporary debug keystore."
