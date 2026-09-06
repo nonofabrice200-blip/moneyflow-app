@@ -1,0 +1,6 @@
+{
+  "name": "FinanceFlow",
+  "description": "Comprehensive personal finance and budget manager with pay cycle budgeting, custom categories, recurring transactions, analytics, multi-account net worth, savings goals, loan amortization tracker, and device sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
